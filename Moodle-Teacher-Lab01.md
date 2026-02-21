@@ -11,7 +11,7 @@
 1. ✅ ตั้งค่ารายวิชาพื้นฐานตาม Best Practice Flow
 2. ✅ สร้าง Gradebook Categories และ Groups อย่างถูกต้อง
 3. ✅ สร้าง Activities  **Attendance, Page, Lesson, Assignment, Choice, Quiz, H5P** ได้
-4. ✅ กำหนดตัวเลือก Grade, Restrict Access, Completion, Group Submission ได้ถูกต้องตามความต้องการ
+4. ✅ กำหนดตัวเลือก Grade, Restrict Access, Completion, Group Submission ได้ถู  กต้องตามความต้องการ
 5. ✅ สร้าง Question Bank และสุ่มคำถามใน Quiz ได้
 
 
