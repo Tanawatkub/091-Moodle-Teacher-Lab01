@@ -186,7 +186,7 @@
 | 3.17 | มี Question pages อย่างน้อย 2 ข้อ | ✓ |  |
 | 3.18 | ตอบผิด → กลับหน้าเดิม (This page) | ✓ |  |
 | 3.19 | ตอบถูก → ไปหน้าถัดไป (Next page) | ✓ |  |
-| 3.20 | Grade category = การมีส่วนร่วม, Max grade = 5 |  |✓  |
+| 3.20 | Grade category = การมีส่วนร่วม, Max grade = 5 | ✓  |  |
 | 3.21 | Restrict access ล็อกจนกว่าอ่าน Page | ✓|  |
 | 3.22 | Activity completion: Require passing grade | ✓ |  |
 | 3.23 | Progress bar และ Display menu เปิด | ✓ |  |
@@ -215,7 +215,7 @@
 
 | ข้อ | รายการ | ✓ | หมายเหตุ |
 |-----|--------|---|----------|
-| 3.25 | สร้าง Assignment สำเร็จ |  |✓  |
+| 3.25 | สร้าง Assignment สำเร็จ | ✓  |  |
 | 3.26 | File: .pdf เท่านั้น, 1 file, Max 10 MB | ✓ |  |
 | 3.27 | Due date และ Cut-off ตั้งแล้ว (ห่างกัน 2 วัน) | ✓ |  |
 | 3.28 | Remind me to grade = Due + 5 วัน | ✓ |  |
